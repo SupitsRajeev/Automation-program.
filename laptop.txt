@@ -1,0 +1,5 @@
+IdeaPad 3,Lenovo,450,73
+Inspiron 15,Dell,600,63
+Pavilion 14,HP,550,55
+Aspire 5,Acer,500,146
+Air,Apple,800,144
